@@ -1,1 +1,1 @@
-my solution to monyty project
+my solution to monty project
